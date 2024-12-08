@@ -29,3 +29,8 @@ Iteration 1: Basic Video Processing
 Objective: Extract frames from the video at a fixed interval (e.g., every 5 seconds) and save them as images.
 Output: Saved frames in the test/ folder within the iteration folder.
 Structure: The images will be saved as .jpg files to reduce file size.
+Timestamp has been added.
+
+Iteration2: 
+Speed of the vehicle has been simulated and overlayed on the video. 
+This will be later be replaced by actual speed from CAN logs.
